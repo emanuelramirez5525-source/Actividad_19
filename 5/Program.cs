@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Desarrolle un programa que solicite un número entero y determine si es par o impar, validando previamente que el dato ingresado sea correcto
