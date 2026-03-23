@@ -1,1 +1,1 @@
-﻿
+﻿//Desarrolle un programa que solicite la cantidad de productos a comprar, validando que sea un número entero positivo y luego simule el ingreso de esos productos
